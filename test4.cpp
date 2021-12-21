@@ -3,6 +3,6 @@ using namespace std;
 
 
 int main(){
-    cout<<"imambara";
+    cout<<"ladua biscut";
     return 0;
 }
